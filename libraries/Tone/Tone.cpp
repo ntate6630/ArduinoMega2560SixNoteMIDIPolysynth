@@ -3,6 +3,7 @@
 || @contribution   Fotis Papadopoulos <fpapadopou@gmail.com>
 || @url            http://wiring.org.co/
 || @url            http://roguerobotics.com/
+|| Modified by Nicholas Tate - June 2022
 ||
 || @description
 || | A Software Digital Square Wave Tone Generation Library
