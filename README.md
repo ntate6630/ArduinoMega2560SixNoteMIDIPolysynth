@@ -1,0 +1,2 @@
+# ArduinoMega2560SixNoteMIDIPolysynth
+Arduino synth design
